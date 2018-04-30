@@ -2,7 +2,7 @@
 #include "classA.h"
 #include "classB.h"
 
-class derived :
+class: derived
 {
      public: classA, public: classB
 {
